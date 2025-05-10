@@ -7,7 +7,7 @@
 
 ## 🚧 Projetos em Destaque
 
-- 🔧 [Calculadora de Médias](https://github.com/seu-usuario/calculadora-medias)
+- 🔧 [Calculadora de Médias](https://github.com/Peagazik/calculadora)
 - 🌐 [Meu site pessoal com GitHub Pages](https://seu-usuario.github.io/seu-site)
 
 ## 🛠️ Tecnologias
