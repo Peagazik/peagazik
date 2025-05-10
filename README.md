@@ -36,7 +36,7 @@
 
 
 ---
-![Anime GIF](https://i.pinimg.com/originals/8a/e1/04/8ae104a88d8fd8e5c4d1a9cbea4d4c96.gif)
+![Anime GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 )
 ⭐ Obrigado por visitar meu perfil!
 
