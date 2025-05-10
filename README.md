@@ -3,7 +3,7 @@
 🎓 Estudante de Ciência da Computação no CEUB  
 💻 Desenvolvedor iniciante apaixonado por tecnologia  
 🚀 Explorando projetos em Python, Web e C  
-📫 Contato: [LinkedIn](www.linkedin.com/in/pedro-henrique-rodrigues-costa-7ba674359) | [Email](pedrohrodrigues.dev@gmail.com)
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-rodrigues-costa-7ba674359/) | [Email](pedrohrodrigues.dev@gmail.com)
 
 ## 🚧 Projetos em Destaque
 
