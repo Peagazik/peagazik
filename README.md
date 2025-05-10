@@ -36,7 +36,8 @@
 
 
 ---
-
+![Meu GIF de boas-vindas](https://media.giphy.com/media/https://i.pinimg.com/originals/8a/e1/04/8ae104a88d8fd8e5c4d1a9cbea4d4c96.gif
+)
 ⭐ Obrigado por visitar meu perfil!
 
 
