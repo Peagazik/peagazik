@@ -9,7 +9,7 @@
 
 - 🔧 [Calculadora](https://github.com/Peagazik/calculadora)
 - 📑 [Lista Funcional](https://github.com/Peagazik/listafuncional)
-- 🌐 [Meu site pessoal com GitHub Pages](https://seu-usuario.github.io/seu-site)
+- 🌐 [Meu site pessoal com GitHub Pages](https://peagazik.github.io/seu-site)
 
 ## 🚀 Tecnologias que eu uso
 
